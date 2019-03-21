@@ -126,3 +126,89 @@
 <p><strong>BAB II</strong></p>
 <p><strong>GAMBARAN UMUM</strong></p>
 <p>Aplikasi Penjualan Olahan Mangga Indramayu Berbasis Website (MANGOLINESHP) adalah salah satu jenis aplikasi perangkat lunak yang dapat digunakan untuk membantu proses penjualan olahan secara online. Selama ini pemasaran olahan mangga khas Indramayu dipasarkan secara konvensional yaitu dijual di toko sekitar Indramayu saja. Pemasaran olahan mangga Indramayu pun kurang berkembang karena pembeli harus datang ke toko. Oleh karena itu olahan mangga&nbsp; khas Indramayu pun yang mengenal hanya orang-orang yang singgah atau berwisata ke Indramayu saja. Sehingga kami berinisiatif untuk membuat sebuah wadah yang didalamnya terdapat lapak-lapak penjual olahan mangga dalam bentuk aplikasi berbasis website. Dibuatnya aplikasi ini kami bisa membantu pemasaran dari penjual olahan mangga Indramayu serta mempromosikan tentang keberagaman olahan mangga yang ada di Indramayu.</p>
+<p><strong>&nbsp;2.1.2 Antarmuka pengguna</strong></p>
+<p>Aplikasi Mangolineshop menggunakan antarmuka berbasis website. Dimana antarmuka website digunakan untuk admin dan pembeli.</p>
+<p>&nbsp;<strong>2.1.3 Antarmuka perangkat keras</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Laptop</li>
+<li>Processor Core i3 or higher</li>
+<li>Penyimpanan(Hardisk) Minimal 4 GB free space</li>
+<li>Monitor resolusi 1240 x 768 colors 5</li>
+<li>Ke<strong>y</strong>board dan mouse compatible with windows</li>
+</ol>
+<p>&nbsp;<strong>2.1.4 Antarmuka perangkat lunak</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Windows 10 or higher</li>
+<li>Laravel</li>
+<li>Corel Draw X7</li>
+<li>Database Mysql</li>
+<li>Adobe XD</li>
+<li>Sublime Text 3</li>
+</ol>
+<p><strong>2.1.5 Antarmuka komunikasi</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Paket Data</li>
+<li>Wifi</li>
+<li>Modem</li>
+<li>Laptop</li>
+</ol>
+<p><strong>2.1.6 Batasan Memori</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>RAM yang kami gunakan adalah minimal 4 gb.</li>
+<li>Memori yang dibutuhkan aplikasi minimal 50 mb.</li>
+</ol>
+<p><strong>2.1.7 Operasi &ndash; operasi</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Input data pembeli</li>
+<li>Input data penjual</li>
+<li>Input data produk olahan mangga Indramayu</li>
+<li>Input pesanan</li>
+<li>Update data pembeli</li>
+<li>Update data penjual</li>
+<li>Update data produk olahan mangga</li>
+<li>Tampilan hasil penjualan harian</li>
+<li>Laporan hasil penjualan</li>
+</ol>
+<p><strong>2.1.8 Kebutuhan Adaptasi</strong></p>
+<p>Kebutuhan adaptasi yang diperlukan pada saat pengembangan aplikasi dengan menggunakan fungsi update data agar memudahkan admin dalam mengkoreksi pengetikan yang salah.</p>
+<p><strong>2.2 Fungsi &ndash; fungsi produk</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Memudahkan pelayanan mangolineshop dalam mencatat pesanan pembeli.</li>
+<li>Memberi tahu pembeli mengenai produk olahan mangga yang habis dan yang tidak.</li>
+<li>Memudahkan penjual untuk melihat pendapatan maupun laporan keuangan produk olahan mangga.</li>
+</ol>
+<p><strong>2.3 Karakteristik Pengguna</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Pengguna mampu membaca dan menulis.</li>
+<li>Pengguna mengerti cara menggunakan PC dengan sistem operasi setidaknya windows.</li>
+<li>Mengerti cara menggunakan browser pada PC.</li>
+</ol>
+<p><strong>2.4 Batasan &ndash; batasan</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Berjalan pada platform website</li>
+<li>Sementara aplikasi ini hanya untuk produk olahan mangga Indramayu</li>
+<li>Aplikasi ini tidak untuk layanan pesan antar</li>
+</ol>
+<p><strong>2.5 Asumsi &ndash; asumsi dan keterkaitan</strong></p>
+<p>Aplikasi Mangolineshop ini dapat dikembangkan lagi dengan menambah banyak penjual, dan penambahan super admin untuk konfirmasi mangolineshop mana saja yang boleh menggunakan aplikasi ini. Sehingga aplikasi ini dapat digunakan oleh banyak penjual olahan mangga yang ingin menggunakan aplikasi ini.</p>
+<p><strong>2.6 Kebutuhan &ndash; kebutuhan penyeimbang</strong></p>
+<p>a. Customer Requirements</p>
+<p>Customer Requirements adalah analisis yang dilakukan terhadap pembeli agar dapat mengetahui apa saja kebutuhan pembeli sehingga pengembang dapat membuat sistem yang sesuai dengan kebutuhan pembeli.</p>
+<p>b. Detil Requirements</p>
+<p>Detil Requirements adalah suatu analisis yang terdiri dari properti dan fungsionalitas spesifik yang diekspresikan dalam bentuk yang detail.</p>
+<p>&nbsp;</p>
+<p><strong>BAB III</strong></p>
+<p><strong>KEBUTUHAN LAIN YANG SPESIFIK</strong></p>
+<p><strong>3.1 Performa</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Respon program kurang 30 detik.</li>
+<li>Berjalan pada browser apapun.</li>
+</ol>
+<p><strong>3.2 Keamanan Aplikasi</strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Validasi username dan password harus sesuai dengan yang didaftarkan sehingga tidak terjadi kesalahan login pada aplikasi Mangolineshop.</li>
+</ol>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>BAB IV</strong></p>
+<p style="text-align: center;"><strong>INFORMASI PENDUKUNG</strong></p>
+<p>Informasi yang kami dapatkan, yaitu dari beberapa situs website, dan mitra Mangolineshop.</p>
