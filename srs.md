@@ -44,7 +44,7 @@
 <p>&nbsp;</p>
 <p><strong><br /> </strong></p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>DAFTAR ISI</strong></p>
+<p align="center"><strong>DAFTAR ISI</strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>HALAMAN JUDUL............................................................................................... i</strong></p>
@@ -68,7 +68,7 @@
 <p>2.3&nbsp;&nbsp; Batasan dan Antarmuka Organisasi.......................................................... 2</p>
 <p>2.4&nbsp;&nbsp; Lingkungan Hidup.................................................................................... 1</p>
 <p>&nbsp;</p>
-<p><strong>BAB II</strong><strong>I</strong> <strong>PROSES MANAJERIAL</strong></p>
+<p ><strong>BAB II</strong><strong>I</strong> <strong>PROSES MANAJERIAL</strong></p>
 <p>3.1&nbsp;&nbsp; Tujuan dan prioritas manajemen............................................................... 1</p>
 <p>3.2&nbsp;&nbsp; Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan.......... 2</p>
 <p>3.3&nbsp;&nbsp; Manajemen resiko..................................................................................... 2</p>
@@ -120,7 +120,7 @@
 <p><strong>DAFTAR GAMBAR</strong></p>
 <p><strong><br /> </strong></p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>BAB I</strong></p>
+<p align="center"><strong>BAB I</strong></p>
 <p><strong>PENDAHULUAN</strong></p>
 <p><strong>&nbsp;</strong></p>
 <ul>
