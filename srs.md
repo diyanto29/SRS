@@ -121,7 +121,7 @@
 <p><strong><br /> </strong></p>
 <p><strong>&nbsp;</strong></p>
 <p align="center"><strong>BAB I</strong></p>
-<p><strong>PENDAHULUAN</strong></p>
+<p align="center"><strong>PENDAHULUAN</strong></p>
 <p><strong>&nbsp;</strong></p>
 <ul>
 <li><strong>Tujuan</strong></li>
