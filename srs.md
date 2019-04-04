@@ -251,3 +251,27 @@
 <p><strong>BAB </strong><strong>IV </strong>berisikan tentang uraian mengenai informasi pendukung dalam pembuatan proyek Aplikasi Aplikasi Penjualan Olahan Mangga Indramayu Berbasis Mobile.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+<p><strong>BAB III</strong></p>
+<p><strong>KEBUTUHAN LAIN YANG SPESIFIK</strong></p>
+<ul>
+<li><strong>Performa</strong></li>
+</ul>
+<ol>
+<li>Respon program kurang 30 detik.</li>
+<li>Berjalan pada Smarphone merk apapun.
+<ul>
+<li><strong>Keamanan Aplikasi</strong></li>
+</ul>
+</li>
+<li>Validasi username dan password harus sesuai dengan yang didaftarkan sehingga tidak terjadi kesalahan login pada aplikasi Mangolineshop.</li>
+<li>Encryption password yang memungkin tidak semua orang tahu untuk mendepcryptionnya.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>BAB IV</strong></p>
+<p><strong>INFORMASI PENDUKUNG</strong></p>
+<p>Informasi yang kami dapatkan, yaitu dari beberapa situs website, dan mitra Mangolineshop.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
