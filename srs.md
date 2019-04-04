@@ -195,18 +195,23 @@
 <ul>
 <li><strong>Use Cases Pembeli</strong></li>
 </ul>
-<p>&nbsp;<img src="https://github.com/JuanJuli/Imagee/blob/master/ucp.png?raw=true" alt="" width="439" height="299" /></p>
+<p align="center"><img src="image/pembeli.PNG" width="250" height="250"></p>
 <p><em>Gambar 2.1.1.1 (Use Case Pembeli)</em></p>
+<ul>
+<li><strong>Use Cases Admin</strong></li>
+</ul>
+<p align="center"><img src="image/admin.PNG" width="250" height="250"></p>
+<p><em>Gambar 2.1.1.2 (Use Case Admin)</em></p>
 <ul>
 <li><strong>Use Cases Reseller</strong></li>
 </ul>
-<p><strong><img src="https://github.com/JuanJuli/Imagee/blob/master/ucr.png?raw=true" alt="" width="439" height="307" /></strong></p>
+<p align="center"><img src="image/reseller.PNG" width="250" height="250"></p>
 <p><em>Gambar 2.1.1.3 (Use Case Reseller)</em></p>
 <p>&nbsp;</p>
 <ul>
 <li><strong>Use Cases Penjual</strong></li>
 </ul>
-<p><strong><img src="https://github.com/JuanJuli/Imagee/blob/master/ucpen.png?raw=true" alt="" width="439" height="299" /></strong></p>
+<p align="center"><img src="image/penjual.PNG" width="250" height="250"></p>
 <p><em>Gambar 2.1.1.4 (Use Case Penjual)</em></p>
 <p><strong>&nbsp;</strong></p>
 <ul>
